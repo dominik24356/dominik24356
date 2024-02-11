@@ -4,3 +4,9 @@ Hi, I'm Dominik. I am studying computer science at the Faculty of Applied Mathem
 
 # 💻 Technologies I'm learning:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
+# 💻 Currently I'm working on:
+
+https://github.com/dominik24356/domy
+
+https://github.com/dominik24356/domy-frontend
