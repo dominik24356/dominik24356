@@ -6,10 +6,10 @@ Hi, I'm Dominik. I am studying computer science at the Silesian University of Te
 [![My Proficient Skills](https://skillicons.dev/icons?icons=java,spring,hibernate,mysql,git,postman,github)](https://skillicons.dev)
 
 # :wink: Technologies I'm Familiar With
-[![My Familiar Skills](https://skillicons.dev/icons?icons=angular,html,css,typescript,linux)](https://skillicons.dev)
+[![My Familiar Skills](https://skillicons.dev/icons?icons=angular,html,css,typescript)](https://skillicons.dev)
 
 # 🧠 Want to learn 
-[![My Familiar Skills](https://skillicons.dev/icons?icons=azure,aws,docker)](https://skillicons.dev)
+[![My Familiar Skills](https://skillicons.dev/icons?icons=azure,aws,docker,linux)](https://skillicons.dev)
 
 # 💻 Currently I'm working on
 
