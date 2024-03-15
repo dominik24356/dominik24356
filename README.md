@@ -1,12 +1,24 @@
-# 💫 About Me:
-Hi, I'm Dominik. I am studying computer science at the Faculty of Applied Mathematics at the Silesian University of Technology. My main areas of study include Java, the Spring framework, SQL, and related technologies. I am dedicated to continuous growth, learning, and gaining experience. I strive to excel in what I do and prioritize constant development of my skills.
+# :yum: About Me
+Hi, I'm Dominik. I am studying computer science at the Silesian University of Technology. My main areas of study include Java, the Spring framework, and related technologies. I am dedicated to continuous growth, learning, and gaining experience. I strive to excel in what I do and prioritize constant development of my skills.
 
 
-# 💻 Technologies I'm learning:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+# :muscle: Technologies I'm Proficient In
+[![My Proficient Skills](https://skillicons.dev/icons?icons=java,spring,hibernate,mysql,git,postman,github)](https://skillicons.dev)
 
-# 💻 Currently I'm working on:
+# :wink: Technologies I'm Familiar With
+[![My Familiar Skills](https://skillicons.dev/icons?icons=angular,html,css,typescript,linux)](https://skillicons.dev)
+
+# 🧠 Want to learn 
+[![My Familiar Skills](https://skillicons.dev/icons?icons=azure,aws,docker)](https://skillicons.dev)
+
+# 💻 Currently I'm working on
 
 https://github.com/dominik24356/domy
 
 https://github.com/dominik24356/domy-frontend
+
+# :mailbox: How to reach me
+
+Linkedin: https://www.linkedin.com/in/dmxx/
+
+E-mail: dominik16333@gmail.com
